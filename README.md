@@ -1,6 +1,6 @@
 ### Hi there, I'm Oleg Rudko👋 
 
-## I'm a Full stack Developer, and good person!!!
+## I'm a Full stack Developer!!!
 
 ### Connect with me:
 
