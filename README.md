@@ -1,13 +1,50 @@
 ### Oleg Rudko 👋
-### Connect with me:
+## Contact with me by:
 
-- [<img align="left" alt="olegRudko | LinkedIn" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />][linkedin]
-- [<img align="left" alt="olegRudko | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
-- [<img align="left" alt="olegRudko | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />][telegram]
+[<img align="left" alt="olegRudko | LinkedIn" width="62px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />][linkedin][<img align="left" alt="olegRudko | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
+[<img align="left" alt="olegRudko | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />][telegram]
+<br />
 - Email address: oleg.rudko0906@gmail.com
 - Phone Number: +38 093 44 34 787
 
 <br />
+
+## Hobbies and Interests
+#### Learn to play musical instruments
+> I really enjoy playing musical insturments and also singing. I started learning to play the guitar when I waqs 15 years old and I still love it. It brings me pleasure and relaxation. Also when I was 19 year old I set myself the goal of learning to play the piano and after 2 years I played well.
+#### Read the Bible
+> I really like this book, I find a lot of new things in it, as well as peace of soul.
+
+## Language Skills:
+#### Native language: `Ukrainian`, `Russian`.
+#### English:
+- Listening - B1
+- Reading - B2
+- Writing - B1
+- Spoken about work - B1
+
+## Education and Training
+<pre>
+[2013-2015] Cooking
+            <i>Vocational and technical school №8</i>
+            Address: <b>Chernivtsi, Ukraine</b>
+            
+[2015-2017] Volunteer to spread the gospel
+            <i>Association of Local Churches of Evangelical Christians</i>
+            <b>Main subject/occupational skills covered:
+             > <i>For 2 years, I worked closely with 15-30 people, we learned how to work together
+               and coordinated every day to discuss different topics. It really helped me understand teamwork.</i>
+               
+[05/2018-0/2019] HTML and CSS
+             <b><i>HTML Academy</i></b>
+             <b>Main subject/occupational skills covered:</b>
+             Online Courses:
+                * HTML and CSS. Proffesional website layount
+                * HTML and CSS. Responsive layout and automation
+</pre>
+
+
+###
 
 ### Daily coding languages:
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
