@@ -1,12 +1,11 @@
-### Hi there, I'm Oleg Rudko👋 
-
-## I'm a Full stack Developer!!!
-
+### Oleg Rudko 👋
 ### Connect with me:
 
-[<img align="left" alt="olegRudko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="olegRudko | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="olegRudko | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/telegram.svg" />][telegram]
+- [<img align="left" alt="olegRudko | LinkedIn" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />][linkedin]
+- [<img align="left" alt="olegRudko | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
+- [<img align="left" alt="olegRudko | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />][telegram]
+- Email address: oleg.rudko0906@gmail.com
+- Phone Number: +38 093 44 34 787
 
 <br />
 
@@ -23,6 +22,7 @@
 <img align="left" alt="Ruby of Rails" width="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" />
 <img />
 <img />
+
 
 ### Tools:
 <img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/256px-Icon-Vim.svg.png" />
