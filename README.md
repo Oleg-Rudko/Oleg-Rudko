@@ -1,5 +1,5 @@
 ### Hello everyone 👋. I'm Oleg Rudko!
-This is the best that could be created - <img align="auto" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/256px-Icon-Vim.svg.png" /> today I can't live without it!
+This is the best that could be created  <img align="auto" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/256px-Icon-Vim.svg.png" /> today I can't live without it!
 ## Contact with me by:
 
 [<img align="left" alt="olegRudko | LinkedIn" width="62px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />][linkedin][<img align="left" alt="olegRudko | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
@@ -32,6 +32,7 @@ This is the best that could be created - <img align="auto" alt="Vim" width="26px
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Docker" width="35px" src="https://www.influxdata.com/wp-content/uploads/Docker.logo2_.png" />
+<br />
 <br />
 
 ## Hobbies and Interests
@@ -95,6 +96,7 @@ This is the best that could be created - <img align="auto" alt="Vim" width="26px
             - Apollo
             - Cypress
             - Honeybadger
+            - Ag-Grid
           > Backend:
             - Ruby of Rails
             - Hasura
@@ -125,6 +127,8 @@ This is the best that could be created - <img align="auto" alt="Vim" width="26px
            - Communicate with owner company for new introductions for business (technical side)
            - Auth0 (SSO, SAML Connection with (Google, Microsoft, Okta, DUO)
            - Communicate with companies if they have problems in order to solve them (tech support online)
+           
+           
 </pre>
 
 ###
