@@ -97,6 +97,7 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
             - Cypress
             - Honeybadger
             - Ag-Grid
+            - Typescript
           > Backend:
             - Ruby of Rails
             - Hasura
