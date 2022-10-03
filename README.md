@@ -107,6 +107,7 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
             - Hasura
             - Auth0
             - Netlify
+            - Docker
           > Manage work:
             - Trello
             - Slack
