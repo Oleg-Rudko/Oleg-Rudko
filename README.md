@@ -77,7 +77,7 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
 
 ## Work Experience
 <pre>
-[02/2020-07/2020] Traine Frontend Developer
+[04/2020-07/2020] Traine Frontend Developer
        <i>Company: <a href="https://www.linkedin.com/company/acuity-ppm/">Acuity PPM</a></i>
          * Country: United States
          * Main activities and responsibilities:
