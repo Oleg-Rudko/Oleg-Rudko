@@ -58,8 +58,6 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 <br />
-<br />
-
 
 ## Language Skills:
 #### Native language: `Ukrainian`, `Russian`.
