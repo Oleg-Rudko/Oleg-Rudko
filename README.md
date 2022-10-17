@@ -102,7 +102,7 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
 
 ## Work Experience
 <pre>
-[04/2020-07/2020] Traine Frontend Developer
+[04/2020-07/2020] Frontend Developer
        <i>Company: <a href="https://www.linkedin.com/company/acuity-ppm/">Acuity PPM</a></i>
          * Country: United States
          * Main activities and responsibilities:
@@ -110,7 +110,7 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
          I also studied English all this time with mentor, because my team is all English-speaking
          and I needed to learn this language quickly.
          
-[07/2020-08/2021] Junior Fronted Developer (80% Frontend - 20% Backend)
+[07/2020-08/2021] Fronted Developer (80% Frontend - 20% Backend)
        <i>Company: <a href="https://www.linkedin.com/company/acuity-ppm/">Acuity PPM</a></i>
          * Main activities and responsobilities:
          > On this project I work with technologies:
