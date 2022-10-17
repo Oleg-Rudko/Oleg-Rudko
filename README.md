@@ -147,7 +147,7 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
            - SQL (Functions, Query)
            - Mentoring
             
-[03/2022-Current] Fullstack Developer
+[03/2022-Current] Fullstack Developer (50% Frontend - 50% Backend)
        <i>Company: <a href="https://www.linkedin.com/company/acuity-ppm/">Acuity PPM</a></i>
          * Main activities and responsobilities:
          > I work with everything that before, as well:
