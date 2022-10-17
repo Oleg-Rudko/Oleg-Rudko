@@ -17,7 +17,7 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br />
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -27,10 +27,10 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
 ## Backened:
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)<br />
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Clouds:
@@ -60,11 +60,6 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
 <br />
 <br />
 
-## Hobbies and Interests
-#### Learn to play musical instruments
-> I really enjoy playing musical insturments and also singing. I started learning to play the guitar when I waqs 15 years old and I still love it. It brings me pleasure and relaxation. Also when I was 19 year old I set myself the goal of learning to play the piano and after 2 years I played well.
-#### Read the Bible
-> I really like this book, I find a lot of new things in it, as well as peace of soul.
 
 ## Language Skills:
 #### Native language: `Ukrainian`, `Russian`.
@@ -73,32 +68,6 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
 - Reading - B2
 - Writing - B1
 - Spoken about work - B1
-
-## Education and Training
-<pre>
-[2013-2015] Cooking
-          * <i>Vocational and technical school №8</i>
-          * Address: <b>Chernivtsi, Ukraine</b>
-            
-[2015-2017] Volunteer to spread the gospel
-          * <i>Association of Local Churches of Evangelical Christians</i>
-          * <b>Main subject/occupational skills covered:
-          > <i>For 2 years, I worked closely with 15-30 people, we learned how to work together
-               and coordinated every day to discuss different topics. It really helped me understand teamwork.</i>
-               
-[05/2018-02/2019] HTML and CSS
-          * <b><i>HTML Academy</i></b>
-          * <b>Main subject/occupational skills covered:</b>
-             Online Courses:
-                * HTML and CSS. Proffesional website layount
-                * HTML and CSS. Responsive layout and automation
-[04/2019-08/2022] Fullstack Developer
-              <i><a href="https://mate.academy/">Mate Academy</a></i>
-         * Main subject/occupational skills coverd:
-         > In these courses, I studied for 4 months online at work. 
-           We studied 5 days a week for 8 hours. We sutdie the following technologies:
-              <i>HTML5, CSS3, SCSS, Gulp, Js, React, Redux, Node.js</i>
-</pre>
 
 ## Work Experience
 <pre>
@@ -158,6 +127,40 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
            
            
 </pre>
+
+
+## Education and Training
+<pre>
+[2013-2015] Cooking
+          * <i>Vocational and technical school №8</i>
+          * Address: <b>Chernivtsi, Ukraine</b>
+            
+[2015-2017] Volunteer to spread the gospel
+          * <i>Association of Local Churches of Evangelical Christians</i>
+          * <b>Main subject/occupational skills covered:
+          > <i>For 2 years, I worked closely with 15-30 people, we learned how to work together
+               and coordinated every day to discuss different topics. It really helped me understand teamwork.</i>
+               
+[05/2018-02/2019] HTML and CSS
+          * <b><i>HTML Academy</i></b>
+          * <b>Main subject/occupational skills covered:</b>
+             Online Courses:
+                * HTML and CSS. Proffesional website layount
+                * HTML and CSS. Responsive layout and automation
+[04/2019-08/2022] Fullstack Developer
+              <i><a href="https://mate.academy/">Mate Academy</a></i>
+         * Main subject/occupational skills coverd:
+         > In these courses, I studied for 4 months online at work. 
+           We studied 5 days a week for 8 hours. We sutdie the following technologies:
+              <i>HTML5, CSS3, SCSS, Gulp, Js, React, Redux, Node.js</i>
+</pre>
+
+
+## Hobbies and Interests
+#### Learn to play musical instruments
+> I really enjoy playing musical insturments and also singing. I started learning to play the guitar when I waqs 15 years old and I still love it. It brings me pleasure and relaxation. Also when I was 19 year old I set myself the goal of learning to play the piano and after 2 years I played well.
+#### Read the Bible
+> I really like this book, I find a lot of new things in it, as well as peace of soul.
 
 ###
 
