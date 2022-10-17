@@ -65,7 +65,7 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
 - Listening - B1
 - Reading - B2
 - Writing - B1
-- Spoken about work - B1
+- Tech English - B2
 
 ## Work Experience
 <pre>
