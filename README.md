@@ -60,7 +60,7 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
 <br />
 
 ## Language Skills:
-#### Native language: `Ukrainian`, `Russian`.
+#### Native language: `Ukrainian`, `Russian`(I know this language).
 #### English:
 - Listening - B1
 - Reading - B2
