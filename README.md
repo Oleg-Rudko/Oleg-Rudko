@@ -121,7 +121,7 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
            - Manage tasks (create a tasks for the team in Trello board)
            - Communicate with owner company for new introductions for business (technical side)
            - Auth0 (SSO, SAML Connection with (Google, Microsoft, Okta, DUO)
-           - Communicate with companies if they have problems in order to solve them (tech support online)
+           - Communicate with companies if they have problems in order to solve them (Acuity Tech Support)
            
            
 </pre>
