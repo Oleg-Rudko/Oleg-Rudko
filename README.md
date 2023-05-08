@@ -1,18 +1,23 @@
 ## Hello everyone 👋. I'm Oleg Rudko!
-This is the best that could be created  <img align="auto" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/256px-Icon-Vim.svg.png" /> today I can't live without it!
+
+This is the best that could be created <img align="auto" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/256px-Icon-Vim.svg.png" /> today I can't live without it!
+
 ## 🌐 Contact with me by:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudkooleh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oleg-r-940a68197)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/olegusR)
 <br />
+
 - Email address: oleg.rudko0906@gmail.com
 - Phone Number: +38 093 44 34 787
 
 <br />
 
 # 💻 Tech Stack:
+
 ## Frontend:
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -25,6 +30,7 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ## Backened:
+
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -34,13 +40,16 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Clouds:
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Hasura](https://img.shields.io/static/v1?style=for-the-badge&message=Hasura&color=222222&logo=Hasura&logoColor=1EB4D4&label=)
 
 ## Devops:
+
 ![Cirleci](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
@@ -50,6 +59,7 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 ### Tools:
+
 ![Iterm 2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
 ![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
@@ -60,22 +70,38 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
 <br />
 
 ## Language Skills:
+
 #### Native language: `Ukrainian`, `Russian`.
+
 #### English:
+
 - Listening - B1
 - Reading - B2
 - Writing - B1
 - Tech English - B2
 
 ## Work Experience
+
 <pre>
-[04/2020-07/2020] Frontend Developer
+[03/2022-Current] Fullstack Developer
        <i>Company: <a href="https://www.linkedin.com/company/acuity-ppm/">Acuity PPM</a></i>
-         * Country: United States
-         * Main activities and responsibilities:
-         > I learned to work on the frontend with technologies such as React, Redux, Immutable.js.
-         I also studied English all this time with mentor, because my team is all English-speaking
-         and I needed to learn this language quickly.
+         * Main activities and responsobilities:
+         > I work with everything that before, as well:
+           - Manage tasks (create a tasks for the team in Trello board)
+           - Communicate with owner company for new introductions for business (technical side)
+           - Auth0 (SSO, SAML Connection with (Google, Microsoft, Okta, DUO, IdP)
+           - Communicate with companies if they have problems in order to solve them (Acuity Tech Support)
+
+[10/2022-03/2023] Code Mentor(VIM and Ruby of Rails)
+
+[08/2021-03/2022] Fullstack Developer (70% Frontend - 30% Backend)
+       <i>Company: <a href="https://www.linkedin.com/company/acuity-ppm/">Acuity PPM</a></i>
+         * Main activities and responsobilities:
+         > I work with everything that before, as well:
+           - Started to work more backend(API, Rspec)
+           - Github actions(automation deploy procces to Heroku, Netlify, Hasura)
+           - SQL (Functions, Query)
+           - Mentoring
          
 [07/2020-08/2021] Fronted Developer (80% Frontend - 20% Backend)
        <i>Company: <a href="https://www.linkedin.com/company/acuity-ppm/">Acuity PPM</a></i>
@@ -105,29 +131,18 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
             - Trello
             - Slack
             - Email
-[08/2021-03/2022] Fullstack Developer (70% Frontend - 30% Backend)
+
+[04/2020-07/2020] Frontend Developer
        <i>Company: <a href="https://www.linkedin.com/company/acuity-ppm/">Acuity PPM</a></i>
-         * Main activities and responsobilities:
-         > I work with everything that before, as well:
-           - Started to work more backend(API, Rspec)
-           - Github actions(automation deploy procces to Heroku, Netlify, Hasura)
-           - SQL (Functions, Query)
-           - Mentoring
-            
-[03/2022-Current] Fullstack Developer (50% Frontend - 50% Backend)
-       <i>Company: <a href="https://www.linkedin.com/company/acuity-ppm/">Acuity PPM</a></i>
-         * Main activities and responsobilities:
-         > I work with everything that before, as well:
-           - Manage tasks (create a tasks for the team in Trello board)
-           - Communicate with owner company for new introductions for business (technical side)
-           - Auth0 (SSO, SAML Connection with (Google, Microsoft, Okta, DUO)
-           - Communicate with companies if they have problems in order to solve them (Acuity Tech Support)
-           
-           
+         * Country: United States
+         * Main activities and responsibilities:
+         > I learned to work on the frontend with technologies such as React, Redux, Immutable.js.
+         I also studied English all this time with mentor, because my team is all English-speaking
+         and I needed to learn this language quickly.
 </pre>
 
-
 ## Education and Training
+
 <pre>
 [2013-2015] Cooking
           * <i>Vocational and technical school №8</i>
@@ -153,11 +168,14 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
               <i>HTML5, CSS3, SCSS, Gulp, Js, React, Redux, Node.js</i>
 </pre>
 
-
 ## Hobbies and Interests
+
 #### Learn to play musical instruments
+
 > I really enjoy playing musical insturments and also singing. I started learning to play the guitar when I waqs 15 years old and I still love it. It brings me pleasure and relaxation. Also when I was 19 year old I set myself the goal of learning to play the piano and after 2 years I played well.
+
 #### Read the Bible
+
 > I really like this book, I find a lot of new things in it, as well as peace of soul.
 
 ###
@@ -171,9 +189,3 @@ This is the best that could be created  <img align="auto" alt="Vim" width="26px"
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [telegram]: https://telegram.me/olegusR
-
-
-
-
-
-
