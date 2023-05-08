@@ -6,7 +6,7 @@ This is the best that could be created <img align="auto" alt="Vim" width="26px" 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudkooleh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oleg-r-940a68197)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/olegusR)
+[![Telegram](![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=))](https://telegram.me/olegusR)
 <br />
 
 - Email address: oleg.rudko0906@gmail.com
