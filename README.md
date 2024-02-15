@@ -98,6 +98,8 @@ This is the best that could be created <img align="auto" alt="Vim" width="26px" 
            - Communicate with owner company for new introductions for business (technical side)
            - Auth0 (SSO, SAML Connection with (Google, Microsoft, Okta, DUO, IdP)
            - Communicate with companies if they have problems in order to solve them (Acuity Tech Support)
+           - I automate the DEVOPS parts of the script that are related to AWS
+       
 
 [10/2022-03/2023] Code Mentor(VIM and Ruby of Rails)
 
@@ -146,6 +148,52 @@ This is the best that could be created <img align="auto" alt="Vim" width="26px" 
          > I learned to work on the frontend with technologies such as React, Redux, Immutable.js.
          I also studied English all this time with mentor, because my team is all English-speaking
          and I needed to learn this language quickly.
+</pre>
+      
+
+## Key Interests  
+<pre>
+<b>Make Integration</b> between apps <i>Node.js, Ruby of Rails, Make.com</i>
+         I played a pivotal role in developing the backend infrastructure in Rails for the
+       integration between the customer's application and Make.com, a visual automation
+       platform similar to Zapier. This encompassed creating bespoke modules within Make.com to
+       seamlessly interact with the customer's application. Notably, I didn't merely utilize
+       existing modules; rather, I took the initiative to develop entirely new modules within
+       a dedicated application in Make.com. This involved writing code to ensure these modules
+       effectively communicated with the customer's application, thereby optimizing automation,
+       streamlining workflows, and fostering innovative solutions. My contributions showcased my
+       proficiency in both backend development and leveraging no-code platforms to
+       create tailored, impactful solutions that meet the unique needs of the customer.
+
+<b>Import/Export(CSV, Excel)</b> <i>Ruby of Rails, React</i>
+         In my experience with data management and manipulation, a recurrent and critical task
+       has been the efficient import and export of data between databases and spreadsheet formats,
+       such as Excel and CSV. Recognizing the importance of seamless data interchange to support
+       decision-making processes, I focused on optimizing these operations. By developing robust
+       mechanisms and scripts, I enabled the smooth transition of data to and from Excel and CSV formats,
+       ensuring data integrity and accessibility. This effort not only streamlined data workflows but also
+       enhanced the overall utility of the data by making it easily manipulable and analyzable for
+       various stakeholders, thereby facilitating more informed decision-making across the organization.
+
+<b>Automation of the DEVOPS</b> <i>Bash script, AWS(Terraform, ELS, RDS, EC2, ELB)</i>
+         In my role focused on enhancing DEVOPS practices, I identified an opportunity to increase
+       efficiency and reduce costs in the application deployment process. By introducing and integrating
+       additional bash scripts, I streamlined operations, automating repetitive tasks that previously
+       required manual intervention. This strategic implementation not only expedited deployment times
+       but also significantly cut down on expenses for the client. My initiative underscores my commitment
+       to leveraging automation for operational excellence, demonstrating my ability to deliver
+       tangible savings and improve deployment workflows within the DEVOPS framework.
+
+<b>Template creation and structure</b> <i>AgGrid, React</i>
+         As an engineer with 3 years of experience working with AgGrid, I've honed my expertise
+       in leveraging its highly configurable nature to optimize data presentation and user
+       interaction. Recognizing the significant time investment required for each table configuration,
+       I embarked on a project to streamline this process. My objective was to engineer a scalable
+       structure and template that would drastically reduce the time needed to implement a new
+       page with a table by 2-3 times. This initiative not only demonstrated my
+       technical acumen in optimizing tools for efficiency but also reflected my proactive approach
+       to enhancing development workflows, ensuring that our team can deploy feature-rich,
+       user-centric table interfaces with greater speed and less overhead.
 </pre>
 
 ## Education and Training
